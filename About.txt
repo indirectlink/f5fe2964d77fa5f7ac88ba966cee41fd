@@ -1,0 +1,19 @@
+# About
+
+NAME: Redirect Link Template
+IMPLEMENTATION: 1
+VERSION: 1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Redirect Link Template is an HTML page template for redirecting to another URL.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## Notes
+
+Other:
+- This project is forked from Ritchey Redirect Link Template i1 v1.
